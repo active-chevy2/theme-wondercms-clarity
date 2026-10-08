@@ -1,13 +1,53 @@
-# clean
-Clean theme for WonderCMS
+# Clarity
 
-## Author: Prakai Nadee
+A minimal, accessible WonderCMS theme with adaptive colour modes.
+
+**Author:** Prakai Nadee
+
+## Overview
+
+Clarity is a clean, lightweight theme designed for WonderCMS. It provides a distraction-free reading experience with a responsive layout, intelligent typography, and adaptive colour modes that respect user preferences.
+
+## Features
+
+- **Responsive Design** — Mobile-first layout that adapts seamlessly across all screen sizes
+- **Adaptive Colour Modes** — Automatic, light, and dark theme options with local storage persistence
+- **Minimal Aesthetic** — Content-first design that stays out of your way
+- **Accessibility First** — WCAG-compliant with semantic HTML and keyboard navigation
+- **Bootstrap 3 Foundation** — Reliable, battle-tested CSS framework
 
 ## Preview
+
 ![Theme preview](/preview.jpg)
 
-## How to use
-1. Login to your WonderCMS website.
-2. Click "Settings" and click "Themes".
-3. Find theme in the list and click "install".
-4. In the "General" tab, select theme to activate it.
+## Installation
+
+1. Log in to your WonderCMS dashboard.
+2. Navigate to **Settings** → **Themes**.
+3. Locate "Clarity" in the theme list and click **Install**.
+4. In the **General** tab, select "Clarity" to activate it.
+
+## Theme Switching
+
+Users can toggle between three colour modes:
+- **Auto** — Respects system colour scheme preference
+- **Light** — Bright background with dark text
+- **Dark** — Dark background with light text
+
+The selected mode is saved locally, so preferences persist across sessions.
+
+## Browser Support
+
+Clarity works on all modern browsers. The theme gracefully degrades on older browsers whilst maintaining core functionality.
+
+## Customisation
+
+All theme styling is contained in `/css/style.css`. Modify colours, typography, and spacing by editing this file directly. The theme's PHP template is in `theme.php`.
+
+## License
+
+See `LICENSE` file for details.
+
+## Version
+
+See `version` file for the current release version.
