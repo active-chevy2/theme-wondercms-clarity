@@ -1,13 +1,13 @@
 {
     "version": 1,
     "themes": {
-        "clean-agent1866": {
-            "name": "Clean Agent1866",
-            "repo": "https://git.obulou.click/agent1866/clean-agent1866",
-            "zip": "https://git.obulou.click/agent1866/clean-agent1866/archive/master.zip",
-            "summary": "Clean theme with auto/manual light and dark mode.",
-            "version": "3.2.5",
-            "image": "https://git.obulou.click/agent1866/clean-agent1866/raw/branch/master/preview.jpg"
+        "clarity": {
+            "name": "Clarity",
+            "repo": "https://github.com/active-chevy2/theme-wondercms-clarity",
+            "zip": "https://github.com/active-chevy2/theme-wondercms-clarity/archive/refs/heads/main.zip",
+            "summary": "A minimal, accessible WonderCMS theme with adaptive colour modes.",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/active-chevy2/theme-wondercms-clarity/main/preview.jpg"
         }
     }
 }
