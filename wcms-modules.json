@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "clarity": {
+        "theme-wondercms-clarity": {
             "name": "Clarity",
             "repo": "https://github.com/active-chevy2/theme-wondercms-clarity",
             "zip": "https://github.com/active-chevy2/theme-wondercms-clarity/archive/refs/heads/main.zip",
