@@ -4,7 +4,7 @@
         "theme-wondercms-clarity": {
             "name": "Clarity",
             "repo": "https://github.com/active-chevy2/theme-wondercms-clarity",
-            "zip": "https://github.com/active-chevy2/theme-wondercms-clarity/archive/refs/heads/main.zip",
+            "zip": "https://github.com/active-chevy2/theme-wondercms-clarity/archive/refs/heads/master.zip",
             "summary": "A minimal, accessible WonderCMS theme with adaptive colour modes.",
             "version": "3.2.1",
             "image": "https://raw.githubusercontent.com/active-chevy2/theme-wondercms-clarity/main/preview.jpg"
