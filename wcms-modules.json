@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "clean-agent1866": {
+            "name": "Clean Agent1866",
+            "repo": "https://git.obulou.click/agent1866/clean-agent1866",
+            "zip": "https://git.obulou.click/agent1866/clean-agent1866/archive/master.zip",
+            "summary": "Clean theme with auto/manual light and dark mode.",
+            "version": "3.2.5",
+            "image": "https://git.obulou.click/agent1866/clean-agent1866/raw/branch/master/preview.jpg"
+        }
+    }
+}
