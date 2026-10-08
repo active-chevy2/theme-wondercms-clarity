@@ -2,11 +2,12 @@
 
 A minimal, accessible WonderCMS theme with adaptive colour modes.
 
-**Author:** Prakai Nadee
+**Base Theme:** Clean by Prakai Nadee  
+**Modified & Rebranded by:** Kalvin
 
 ## Overview
 
-Clarity is a clean, lightweight theme designed for WonderCMS. It provides a distraction-free reading experience with a responsive layout, intelligent typography, and adaptive colour modes that respect user preferences.
+Clarity is an enhanced version of Prakai Nadee's original "Clean" WonderCMS theme. This version adds hybrid auto/manual light and dark theme switching, providing a distraction-free reading experience with a responsive layout, intelligent typography, and adaptive colour modes that respect user preferences.
 
 ## Features
 
