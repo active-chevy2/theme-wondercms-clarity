@@ -1,6 +1,6 @@
 # Clarity
 
-<a href="https://www.aihonestybadge.com" target="_blank" rel="noopener"><img src="https://www.aihonestybadge.com/badges/ai-generated-large.svg" alt="AI Generated" height="28"></a>
+<a href="https://www.aihonestybadge.com" target="_blank" rel="noopener"><img src="https://www.aihonestybadge.com/badges/ai-assisted-large.svg" alt="AI Assisted" height="28"></a>
 
 A minimal, accessible WonderCMS theme with adaptive colour modes.
 
